@@ -1,1 +1,1 @@
-# c_programming_masterclass-_pointers
+# Exercises C Programming Masterclass - Pointers
